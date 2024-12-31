@@ -1,0 +1,2 @@
+Prefix plugins/MLP_MAE/example/
+Plugin MLP_MAE inputfile Merged-update_hourly.csv outputfile .
